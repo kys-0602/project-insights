@@ -16,6 +16,7 @@
 |[YumGovy](./Yumgovy/README.md)|2025.12|Vue.JS|팀원|대외비 (공개 불가)|
 |[Sweet Delivery](./SweetDelivery/README.md)|2026.02-2026.03|Unity, Mirror Networking|팀원||
 |[GummyGom Delivery](./GummyGomDelivery/README.md "GummyGom Delivery")|2026.04-2026.05|Unity, Steamworks.NET, STEAM|팀장||
+|[Cooking](./Cooking/README.md "Cooking")|2026.05-|Unity, Mirror Networking|||
 
 ## Tech Stack Summary
 
