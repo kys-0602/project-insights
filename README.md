@@ -12,10 +12,10 @@
 |프로젝트명|기간|핵심 키워드|역할|기타|
 |:-----|:-----|:-----|:-----|:-----|
 |[SYWWorkshop](./SYWWorkshop/README.md "SYWWorkshop")|2025|Vue.JS, TypeScript, Reverse-Engineering|개인||
-|[RoomIncode](./RoomInCode/README.md "RoomInCode")|2025.01-2025.02|Vue.JS, TypeScript|팀장||
+|[RoomIncode](./RoomInCode/README.md "RoomInCode")|2025.01-2025.02|Vue.JS, TypeScript|팀장|대외비 (공개 불가)|
 |[YumGovy](./Yumgovy/README.md)|2025.12|Vue.JS|팀원|대외비 (공개 불가)|
-|[Sweet Delivery](./SweetDelivery/README.md)|2026.02-2026.03|Unity, Mirror Networking|팀원||
-|[GummyGom Delivery](./GummyGomDelivery/README.md "GummyGom Delivery")|2026.04-2026.05|Unity, Steamworks.NET, STEAM|팀장||
+|[Sweet Delivery](./SweetDelivery/README.md)|2026.02-2026.03|Unity, Mirror Networking|팀원|대외비 (공개 불가)|
+|[GummyGom Delivery](./GummyGomDelivery/README.md "GummyGom Delivery")|2026.04-2026.05|Unity, Steamworks.NET, STEAM|팀장|대외비 (공개 불가)|
 |[Cooking](./Cooking/README.md "Cooking")|2026.05-|Unity, Mirror Networking|개인||
 
 ## Tech Stack Summary
